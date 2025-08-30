@@ -1,0 +1,13 @@
+1_helloworld.c
+1_helloworld.s
+2_abc.c
+3_state
+4_smallest.c
+5_fd
+6_pipe
+a.out
+a.txt
+cop4610-honors
+gcc_trace.txt
+LICENSE
+README.md
